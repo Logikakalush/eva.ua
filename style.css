@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(243, 237, 237);
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+
+.button {
+   text-decoration: none;
+   color: green; 
+}
+
+
+
+.nav-link {
+    text-decoration: none;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 20px;
+}
+
+article {
+   background-color: orange;
+   margin: 10px;
+   border: 1px solid green;
+}
+
+.article-but {
+  color: green;   
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+footer p {
+}
+header img{
+width: 200px;
+}
